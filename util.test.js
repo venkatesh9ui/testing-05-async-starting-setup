@@ -1,3 +1,5 @@
+// jest.mock('./http');
+
 // const { printTitle } = require('./app');
 const { loadTitle } = require('./util');
 
